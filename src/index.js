@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import './assets/css/timeline.css'
+
 //Pages
 import Home from './pages/Home';
 
