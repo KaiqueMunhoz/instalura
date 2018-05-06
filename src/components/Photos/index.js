@@ -5,7 +5,7 @@ import Header from './Header/index';
 import Info from './Info/index';
 import Updates from './Updates/index';
 
-export default class Fotos extends Component {
+export default class Photos extends Component {
     render(){
         return (
           <div className="foto">

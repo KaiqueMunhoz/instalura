@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import Fotos from './../Fotos';
+import Photos from './../Photos';
 
 export default class Timeline extends Component {
     render(){
         return (
         <div className="fotos container">
-          <Fotos/>
-          <Fotos/>
+          <Photos/>
+          <Photos/>
         </div>            
         );
     }
